@@ -60,11 +60,10 @@ social:
   link: https://www.linkedin.com/in/caleb-molstad-504146165/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/cv.pdf
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "molst036@umn.edu"
