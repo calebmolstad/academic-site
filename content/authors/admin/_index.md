@@ -75,4 +75,4 @@ highlight_name: true
 
 I'm an English PhD candidate at the University of Minnesota. My research interests include late medieval literature, Middle English literature, imaginative literature, food studies, and vernacular theology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
