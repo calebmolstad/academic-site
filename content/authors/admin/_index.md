@@ -45,16 +45,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:molst036@umn.edu
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=dEf8udQAAAAJ
+- icon: academia
+  icon_pack: ai
+  link: https://github.com/calebmolstad
 - icon: github
   icon_pack: fab
   link: https://github.com/calebmolstad
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/caleb-molstad-504146165/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
