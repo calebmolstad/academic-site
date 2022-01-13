@@ -15,10 +15,10 @@ main:
 #    weight: 30
  - name: Publications
     url: '#featured'
-    weight: 40
+    weight: 20
    - name: Conference Papers
     url: '#talks'
-    weight: 50
+    weight: 30
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
