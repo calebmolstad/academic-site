@@ -46,15 +46,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:molst036@umn.edu
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=dEf8udQAAAAJ
 - icon: academia
   icon_pack: ai
   link: https://github.com/calebmolstad
-- icon: github
-  icon_pack: fab
-  link: https://github.com/calebmolstad
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=dEf8udQAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/caleb-molstad-504146165/
