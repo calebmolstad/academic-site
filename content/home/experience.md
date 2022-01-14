@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: University of Minnesota
-    date_start: '2022-1-1'
-    date_end: '2022-5-1'
+    date_start: '2022-01-01'
+    date_end: '2022-05-01'
     description:
 
 design:
