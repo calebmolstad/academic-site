@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: University of Minnesota
-    date_start: 'Spring 2022'
+    date_start: ''
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,7 +41,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: University of Minnesota
-    date_start: 'Fall 2021'
+    date_start: ''
     date_end: ''
 
 design:
