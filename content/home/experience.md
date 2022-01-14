@@ -27,17 +27,9 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: University of Minnesota
-    date_start: 'Jan 2022'
-    date_end: 'May 2022'
+    date_start: '2022-1-1'
+    date_end: '2022-5-1'
     description:
-        
-  - title: ENGL 1501 Literature and Public Life
-    company: Instructor
-    company_url: ''
-    company_logo: org-x
-    location: University of Minnesota
-    date_start: 'Sept 2021'
-    date_end: 'Dec 2021'
 
 design:
   columns: '2'
