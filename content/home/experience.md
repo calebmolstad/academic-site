@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: University of Minnesota
- #   date_start: ''
- #   date_end: ''
+    date_start: 'Jan 2022'
+    date_end: 'May 2022'
     description:
         
   - title: ENGL 1501 Literature and Public Life
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: University of Minnesota
-#    date_start: ''
-#    date_end: ''
+    date_start: 'Sept 2021'
+    date_end: 'Dec 2021'
 
 design:
   columns: '2'
