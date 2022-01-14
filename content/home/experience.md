@@ -27,22 +27,17 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: University of Minnesota
-    date_start: ''
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+ #   date_start: ''
+ #   date_end: ''
+    description:
         
   - title: ENGL 1501 Literature and Public Life
     company: Instructor
     company_url: ''
     company_logo: org-x
     location: University of Minnesota
-    date_start: ''
-    date_end: ''
+#    date_start: ''
+#    date_end: ''
 
 design:
   columns: '2'
