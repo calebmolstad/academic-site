@@ -31,7 +31,7 @@ experience:
     date_end: '2022-05-01'
     description:
     
-  - title:  ENGL 1501: Literature and Public Life
+  - title:  ENGL 1501 Literature and Public Life
     company: Instructor
     company_url: ''
     company_logo: University_of_Minnesota_Logo
@@ -40,7 +40,7 @@ experience:
     date_end: '2021-12-31'
     description:
     
-  - title:  WRIT 1301: University Writing
+  - title:  WRIT 1301 University Writing
     company: Instructor
     company_url: ''
     company_logo: University_of_Minnesota_Logo
@@ -49,7 +49,7 @@ experience:
     date_end: '2021-05-01'
     description:
     
-  - title:  ENGL 3006W: Survey of American Literatures and Cultures II
+  - title:  ENGL 3006W Survey of American Literatures and Cultures II
     company: Teaching Assistant
     company_url: ''
     company_logo: University_of_Minnesota_Logo
@@ -58,7 +58,7 @@ experience:
     date_end: '2019-05-01'
     description:
     
-  - title:  ENGL 1001W: Introduction to Literature
+  - title:  ENGL 1001W Introduction to Literature
     company: Teaching Assistant
     company_url: ''
     company_logo: University_of_Minnesota_Logo
@@ -67,7 +67,7 @@ experience:
     date_end: '2018-12-31'
     description:
     
-  - title:  College Writing I
+  - title:  ENG 110 College Writing I
     company: Instructor
     company_url: ''
     company_logo:
@@ -76,7 +76,7 @@ experience:
     date_end: '2017-05-01'
     description:
     
-  - title:  Basic Latin I
+  - title:  LAT 1000 Basic Latin I
     company: Instructor
     company_url: ''
     company_logo:
@@ -85,7 +85,7 @@ experience:
     date_end: '2022-12-31'
     description:
     
-  - title:  MDVL 1450: Heroes and Villains, Western Michigan University
+  - title:  MDVL 1450 Heroes and Villains
     company: Instructor
     company_url: ''
     company_logo:
