@@ -30,6 +30,78 @@ experience:
     date_start: '2022-01-01'
     date_end: '2022-05-01'
     description:
+    
+ experience:
+  - title:  ENGL 1501: Literature and Public Life
+    company: Instructor
+    company_url: ''
+    company_logo: University_of_Minnesota_Logo
+    location: University of Minnesota
+    date_start: '2021-09-01'
+    date_end: '2021-12-31'
+    description:
+    
+    
+experience:
+  - title:  WRIT 1301: University Writing
+    company: Instructor
+    company_url: ''
+    company_logo: University_of_Minnesota_Logo
+    location: University of Minnesota
+    date_start: '20219-09-01'
+    date_end: '2021-05-01'
+    description:
+    
+experience:
+  - title:  ENGL 3006W: Survey of American Literatures and Cultures II
+    company: Teaching Assistant
+    company_url: ''
+    company_logo: University_of_Minnesota_Logo
+    location: University of Minnesota
+    date_start: '2019-09-01'
+    date_end: '2019-05-01'
+    description:
+    
+experience:
+  - title:  ENGL 1001W: Introduction to Literature
+    company: Teaching Assistant
+    company_url: ''
+    company_logo: University_of_Minnesota_Logo
+    location: University of Minnesota
+    date_start: '2018-09-01'
+    date_end: '2018-12-31'
+    description:
+    
+experience:
+  - title:  College Writing I
+    company: Instructor
+    company_url: ''
+    company_logo:
+    location: Kalamazoo Valley Community College
+    date_start: '2016-09-01'
+    date_end: '2017-05-01'
+    description:
+    
+experience:
+  - title:  Basic Latin I
+    company: Instructor
+    company_url: ''
+    company_logo:
+    location: Western Michigan University
+    date_start: '2016-09-01'
+    date_end: '2022-12-31'
+    description:
+    
+experience:
+  - title:  MDVL 1450: Heroes and Villains, Western Michigan University
+    company: Instructor
+    company_url: ''
+    company_logo:
+    location: Western Michigan University
+    date_start: '2014-09-01'
+    date_end: '2016-05-01'
+    description:
+
 
 design:
   columns: '2'
