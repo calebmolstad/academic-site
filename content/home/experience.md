@@ -31,7 +31,6 @@ experience:
     date_end: '2022-05-01'
     description:
     
- experience:
   - title:  ENGL 1501: Literature and Public Life
     company: Instructor
     company_url: ''
@@ -41,8 +40,6 @@ experience:
     date_end: '2021-12-31'
     description:
     
-    
-experience:
   - title:  WRIT 1301: University Writing
     company: Instructor
     company_url: ''
@@ -52,7 +49,6 @@ experience:
     date_end: '2021-05-01'
     description:
     
-experience:
   - title:  ENGL 3006W: Survey of American Literatures and Cultures II
     company: Teaching Assistant
     company_url: ''
@@ -62,7 +58,6 @@ experience:
     date_end: '2019-05-01'
     description:
     
-experience:
   - title:  ENGL 1001W: Introduction to Literature
     company: Teaching Assistant
     company_url: ''
@@ -72,7 +67,6 @@ experience:
     date_end: '2018-12-31'
     description:
     
-experience:
   - title:  College Writing I
     company: Instructor
     company_url: ''
@@ -82,7 +76,6 @@ experience:
     date_end: '2017-05-01'
     description:
     
-experience:
   - title:  Basic Latin I
     company: Instructor
     company_url: ''
@@ -92,7 +85,6 @@ experience:
     date_end: '2022-12-31'
     description:
     
-experience:
   - title:  MDVL 1450: Heroes and Villains, Western Michigan University
     company: Instructor
     company_url: ''
