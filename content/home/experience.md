@@ -25,7 +25,7 @@ experience:
   - title:  ENGL 3022 Science Fiction and Fantasy
     company: Instructor
     company_url: ''
-    company_logo: org-gc
+    company_logo: University_of_Minnesota_Logo.svg
     location: University of Minnesota
     date_start: '2022-01-01'
     date_end: '2022-05-01'
