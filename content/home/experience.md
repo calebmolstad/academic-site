@@ -45,7 +45,7 @@ experience:
     company_url: ''
     company_logo: University_of_Minnesota_Logo
     location: University of Minnesota
-    date_start: '20219-09-01'
+    date_start: '2019-09-01'
     date_end: '2021-05-01'
     description:
     
@@ -82,7 +82,7 @@ experience:
     company_logo:
     location: Western Michigan University
     date_start: '2016-09-01'
-    date_end: '2022-12-31'
+    date_end: '2016-12-31'
     description:
     
   - title:  MDVL 1450 Heroes and Villains
