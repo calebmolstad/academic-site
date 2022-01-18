@@ -79,7 +79,7 @@ experience:
   - title:  LAT 1000 Basic Latin I
     company: Instructor
     company_url: ''
-    company_logo:
+    company_logo: WMU
     location: Western Michigan University
     date_start: '2016-09-01'
     date_end: '2016-12-31'
@@ -88,7 +88,7 @@ experience:
   - title:  MDVL 1450 Heroes and Villains
     company: Instructor
     company_url: ''
-    company_logo:
+    company_logo: WMU
     location: Western Michigan University
     date_start: '2014-09-01'
     date_end: '2016-05-01'
