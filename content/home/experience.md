@@ -70,7 +70,7 @@ experience:
   - title:  ENG 110 College Writing I
     company: Instructor
     company_url: ''
-    company_logo:
+    company_logo: KVCC
     location: Kalamazoo Valley Community College
     date_start: '2016-09-01'
     date_end: '2017-05-01'
