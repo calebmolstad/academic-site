@@ -23,10 +23,8 @@ publication_types: ["2"]
 publication: In *Hilltop Review*
 publication_short: In *Hilltop Review*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: The Roman goddess Venus seems an unlikely figure to survive the transition from Roman antiquity to the Middle Ages. Catholic Christianity, which grew to be the dominant religion in medieval Europe, is monotheistic. Pagan gods were potential idols and/or rivals to the one God. Furthermore, Venus is a goddess, a powerful female pagan figure. A society in which men were almost exclusively responsible for defining and defending orthodox belief would ostensibly be hostile to goddesses. In spite of this, Venus had a remarkable career in the literature of the Middle Ages, as noted in Theresa Tinkle's Medieval Venuses and Cupids,
+which emphasizes the presence of not one, but multiple medieval Venuses. Though there are commonalities between these Venuses, each particular Venus varied according to the aims of the individual writer. Any investigation of the medieval Venus requires looking at the nuances of individual texts. However, there is a larger trend of goddess figures in medieval literature that can guide our study.
 
 tags: []
 
