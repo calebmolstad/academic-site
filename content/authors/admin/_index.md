@@ -48,7 +48,7 @@ social:
   link: mailto:molst036@umn.edu
 - icon: academia
   icon_pack: ai
-  link: https://github.com/calebmolstad
+  link: https://umn.academia.edu/CalebMolstad/
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=dEf8udQAAAAJ
