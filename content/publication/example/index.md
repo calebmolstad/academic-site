@@ -36,7 +36,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=1190&context=hilltopreview'
 url_code: ''
 url_dataset: ''
 url_poster: ''
