@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Minnesota
+- name: University of Minnesota Twin Cities
   url: https://twin-cities.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
