@@ -7,7 +7,7 @@ title: "Philosophical Romance: Figures of Venus in *The Knight's Tale*"
 authors:
 - admin
 
-date: "2013-07-01T00:00:00Z"
+date: "2016-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
