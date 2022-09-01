@@ -1,5 +1,5 @@
 ---
-title: "Philosophical Romance: Figures of Venus in \*The Knight's Tale\*"
+title: "Philosophical Romance: Figures of Venus in <em>The Knight's Tale</em>"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
