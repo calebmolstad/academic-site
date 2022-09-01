@@ -7,7 +7,7 @@ title: "Adaptation, Autobiography, and Divine Passibility in *Patience*"
 authors:
 - admin
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
