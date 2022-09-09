@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=dEf8udQAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/caleb-molstad-504146165/
+  link: https://www.linkedin.com/in/caleb-d-molstad-504146165/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
