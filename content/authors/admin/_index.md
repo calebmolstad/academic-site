@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Caleb D. Molstad
+title: Dr. Caleb D. Molstad
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD, English Literature
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://twin-cities.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an English PhD candidate at the University of Minnesota. My research interests include late medieval literature, Middle English literature, imaginative literature, food studies, and vernacular theology.
+bio: I have a PhD in English Literature from University of Minnesota. My research interests include late medieval literature, Middle English literature, imaginative literature, food studies, and vernacular theology.
 
 # Interests to show in About widget
 interests:
