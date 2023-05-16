@@ -6,7 +6,7 @@ title: Caleb D. Molstad
 superuser: true
 
 # Role/position/tagline
-role: PhD, English Literature
+role: PhD, English
 
 # Organizations/Affiliations to show in About widget
 organizations:
