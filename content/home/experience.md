@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title:  Humanities I–III
+    company: Adjunct Faculty
+    company_url: ''
+    company_logo: 
+    location: Bethel University
+    date_start: '2023-08-01'
+    date_end: '2024-05-24'
+    description:
+
   - title:  ENGL 3022 Science Fiction and Fantasy
     company: Instructor
     company_url: ''
