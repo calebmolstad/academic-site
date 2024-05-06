@@ -70,6 +70,6 @@ email: "molst036@umn.edu"
 highlight_name: true
 ---
 
-I'm an English PhD candidate at the University of Minnesota. My research interests include late medieval literature, Middle English literature, imaginative literature, food studies, and vernacular theology.
+I have a PhD in English Literature from University of Minnesota. My research interests include late medieval literature, Middle English literature, imaginative literature, food studies, and vernacular theology.
 
 {{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
