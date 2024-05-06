@@ -25,7 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MA in English
+  - course: PhD in English Literature
+    institution: University of Minnesota
+    year: 2023
+  - course: MA in English Literature
     institution: University of Minnesota
     year: 2020
   - course: MA in Medieval Studies
